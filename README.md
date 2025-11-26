@@ -1,9 +1,8 @@
 # Github Actions
 
- ### Interesting links:
+### Interesting links:
 
- * [github actions official documentation](https://docs.github.com/en/actions)
+- [github actions official documentation](https://docs.github.com/en/actions)
+- [Understanding gh actions](https://docs.github.com/en/actions/get-started/understand-github-actions)
 
- * []() 
-
- jorgescalona 2025
+jorgescalona 2025
