@@ -1,5 +1,8 @@
 name: deploy 1 
 on: push
+defaults:
+  run:
+    working-directory: 01_first_workflow
 jobs:
   first-job:
     runs-on: ubuntu-latest
