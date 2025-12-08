@@ -1,0 +1,11 @@
+name: deploy 1 
+on: push
+jobs:
+  first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get repo
+        run: echo "Hello World!"
+      - uses: actions/checkout@v6
+      - name: Print goodbye
+        run: echo "Done - bye!"
