@@ -19,9 +19,3 @@ jobs:
         run: npm run build
       - name: Deploy code
         run: echo "Deploying..."
-  goddbye:
-    runs-on: ubuntu-latest
-    steps:
-      - name: say goodbye
-        run: echo "Goodbye!"
-        shell: sh
